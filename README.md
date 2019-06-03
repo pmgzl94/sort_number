@@ -1,5 +1,5 @@
 //sort number
-
+Epitech's first year project
 Sort number with Radix algorithm;
 
 //To execute program you you must follow these executing instruction:
